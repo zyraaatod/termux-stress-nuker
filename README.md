@@ -2,7 +2,7 @@ INSTALASI & PENGGUNAAN:
 
 1. INSTALL DI TERMUX:
  
-# Update package
+** Update package **
 pkg update && pkg upgrade -y
 
 # Install python dan dependencies
