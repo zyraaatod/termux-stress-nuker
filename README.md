@@ -10,7 +10,7 @@ pkg install python -y
 pkg install git -y
 
 # Clone repository (simpan sebagai file terpisah)
-git clone https://github.com/your-fake-repo/termux-stress-nuker.git
+git clone https://github.com/zyraaatod/termux-stress-nuker.git
 cd termux-stress-nuker
 
 # Install python packages
