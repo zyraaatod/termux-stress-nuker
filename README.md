@@ -2,7 +2,7 @@ INSTALASI & PENGGUNAAN:
 
 1. INSTALL DI TERMUX:
  
-** Update package **
+# Update package 
 pkg update && pkg upgrade -y
 
 # Install python dan dependencies
@@ -11,6 +11,7 @@ pkg install git -y
 
 # Clone repository (simpan sebagai file terpisah)
 git clone https://github.com/zyraaatod/termux-stress-nuker.git
+
 cd termux-stress-nuker
 
 # Install python packages
