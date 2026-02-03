@@ -7,6 +7,7 @@ pkg update && pkg upgrade -y
 
 # Install python dan dependencies
 pkg install python -y
+
 pkg install git -y
 
 # Clone repository (simpan sebagai file terpisah)
