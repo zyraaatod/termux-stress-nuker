@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Tentang
+## 📖 Tentang (#tentang)
 
 **Termux Stress Nuker** adalah tool stress testing yang dirancang untuk melakukan load testing pada website menggunakan Python dan async programming. Tool ini menggunakan multiple requests secara concurrent untuk testing purposes.
 
