@@ -160,30 +160,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🤝 Kontribusi
-
-Kontribusi welcome! Silakan:
-1. Fork repository ini
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
----
 
 ## 📞 Kontak & Support
 
-- 📧 Email: [Your Email]
+- 📧 Email: [kudaterbang1441@gmail.com]
 - 🐙 GitHub: [@zyraaatod](https://github.com/zyraaatod)
 - 💬 Issues: [Report Bug](https://github.com/zyraaatod/termux-stress-nuker/issues)
 
----
-
-## ⭐ Jika Berguna, Jangan Lupa Star!
-
-Jika project ini membantu Anda, please ⭐ star repository ini!
-
----
 
 **Last Updated**: 2026-02-24 06:26:49  
 **Status**: ✅ Active & Maintained
