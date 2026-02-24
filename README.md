@@ -46,23 +46,23 @@
 
 ## 🚀 Instalasi
 
-### Step 1️⃣: Update Termux
+### Step 1: Update Termux
 ```bash
 pkg update && pkg upgrade -y
 ```
 
-### Step 2️⃣: Install Python & Git
+### Step 2: Install Python & Git
 ```bash
 pkg install python git -y
 ```
 
-### Step 3️⃣: Clone Repository
+### Step 3: Clone Repository
 ```bash
 git clone https://github.com/zyraaatod/termux-stress-nuker.git
 cd termux-stress-nuker
 ```
 
-### Step 4️⃣: Install Python Dependencies
+### Step 4: Install Python Dependencies
 ```bash
 pip install aiohttp dnspython
 ```
