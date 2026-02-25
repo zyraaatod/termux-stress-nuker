@@ -153,8 +153,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  Kontak & Support
 
-[![kudaterbang1441@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- 🐙 GitHub: [@zyraaatod](https://github.com/zyraaatod)
+![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)()
+- ![GITHUB](https://github.com/zyraaatod)
 - 💬 Issues: [Report Bug](https://github.com/zyraaatod/termux-stress-nuker/issues)
 
 
