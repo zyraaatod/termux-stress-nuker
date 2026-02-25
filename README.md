@@ -9,28 +9,18 @@
 
 ---
 
-## 📋 Daftar Isi
-- [Tentang](##tentang)
-- [Persyaratan](##persyaratan)
-- [Instalasi](##instalasi)
-- [Penggunaan](##penggunaan)
-- [Fitur](##fitur)
-- [Warning](##warning)
-
----
-
 ## Tentang 
 
 **Termux Stress Nuker** adalah tool stress testing yang dirancang untuk melakukan load testing pada website menggunakan Python dan async programming. Tool ini menggunakan multiple requests secara concurrent untuk testing purposes.
 
-### 🎯 Use Case
+###  Use Case
 - Testing performa website Anda sendiri
 - Load testing infrastructure
 - Security testing dengan izin pemilik
 
 ---
 
-## ⚙️ Persyaratan
+##  Persyaratan
 
 | Komponen | Versi |
 |----------|-------|
@@ -44,7 +34,7 @@
 
 ---
 
-## 🚀 Instalasi
+##  Instalasi
 
 ### Step 1: Update Termux
 ```bash
@@ -69,7 +59,7 @@ pip install aiohttp dnspython
 
 ---
 
-## 💻 Penggunaan
+##  Penggunaan
 
 ### Basic Usage
 ```bash
@@ -91,7 +81,7 @@ python3 stress_nuker.py https://target-website.com --threads 100 --duration 60
 
 ---
 
-## ✨ Fitur
+##  Fitur
 
 ✅ Async request processing untuk performance maksimal  
 ✅ Multiple concurrent connections  
@@ -102,7 +92,7 @@ python3 stress_nuker.py https://target-website.com --threads 100 --duration 60
 
 ---
 
-## 📊 Contoh Output
+##  Contoh Output
 
 ```
 [+] Starting Stress Test...
@@ -120,7 +110,7 @@ python3 stress_nuker.py https://target-website.com --threads 100 --duration 60
 
 ---
 
-## ⚠️ Warning
+##  Warning
 
 🚨 **PENTING!** 
 
@@ -134,7 +124,7 @@ Sebelum menggunakan tool ini, pastikan:
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Error: "ModuleNotFoundError: No module named 'aiohttp'"
 ```bash
@@ -154,14 +144,14 @@ pip install aiohttp dnspython
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 
-## 📞 Kontak & Support
+##  Kontak & Support
 
 - 📧 Email: [kudaterbang1441@gmail.com]
 - 🐙 GitHub: [@zyraaatod](https://github.com/zyraaatod)
